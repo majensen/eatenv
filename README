@@ -1,0 +1,5 @@
+IMAP::EatEnv - eat IMAP envelope, poop Perl structure
+
+To install:
+ $ perl Build.PL
+ $ ./Build install
